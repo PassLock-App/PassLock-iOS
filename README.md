@@ -20,7 +20,7 @@
 - **Data Import**: Import important photos from albums into PassLock.
 - **Security Notes**: Record personal information such as loans and debts.
 
-## Note: In order to ensure the security of the project and prevent plagiarism, the core algorithms, encryption logic, key management, Xcode project configuration and other sensitive parts are not open source.
+⚠️Note: In order to ensure the security of the project and prevent plagiarism, the core algorithms, encryption logic, key management, Xcode project configuration and other sensitive parts are not open source.
 
 ## Licenses
 
