@@ -1,43 +1,32 @@
-# PassLock
+# PassLock: Open Source Password Manager
 
 ![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg)
 
-[在App Store下载PassLock](https://apps.apple.com/app/id1669178334)
+[Download on the App Store](https://apps.apple.com/app/id1669178334)
 
-PassLock 是一款安全高效的密码管理器，专为保护您的个人信息而设计。该项目采用混合开源策略，以最大限度地提高透明度和用户信任，同时确保核心技术和安全性。
+PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
 
-## 特性
+## Features
 
-- **账户管理**：保存重要账户信息，支持历史密码、备注和图片附件。
-- **自动填充**：通过搜索引擎自动提取网址，极大地提高密码填充效率。
-- **QuickType 支持**：扩展程序支持 QuickType Bar 自动填充密码。
-- **多设备同步**：在 iPhone、iPad 和 Mac 之间同步数据。
-- **历史密码管理**：记录账户所有的历史密码，并支持手动填充历史密码。
-- **强密码生成器**：简洁方便的强密码生成工具。
-- **暗网泄漏检测**：检测账户是否已在暗网泄漏。
-- **本地存储**：数据默认保存在设备本地，无需网络授权也能使用。
-- **iCloud 同步**：同步本地数据到 iCloud，防止数据丢失。
-- **数据导入**：将相册内的重要照片导入 PassLock。
-- **安全笔记**：记录个人借款、债务等信息。
+- **Account Management**: save important account information, support historical passwords, notes and picture attachments.
+- **Autofill**: Automatically extracts URLs through search engines, which greatly improves the efficiency of password filling.
+- **QuickType Support**: extension supports QuickType Bar to auto-fill passwords.
+- **Multi-Device Synchronization**: Synchronize data between iPhone, iPad and Mac.
+- **Historical Password Management**: Record all historical passwords for an account and support manual filling of historical passwords.
+- **Strong Password Generator**: Simple and convenient tool for generating strong passwords.
+- **Dark Web Leakage Detection**: detects if an account has been leaked on the dark web.
+- **Local Storage**: Data is saved locally on the device by default and can be used without network authorization.
+- **iCloud Sync**: Synchronize local data to iCloud to prevent data loss.
+- **Data Import**: Import important photos from albums into PassLock.
+- **Security Notes**: Record personal information such as loans and debts.
 
-## 开源声明
+## Note: In order to ensure the security of the project and prevent plagiarism, the core algorithms, encryption logic, key management, Xcode project configuration and other sensitive parts are not open source.
 
-PassLock 采用混合开源策略，以下部分内容已开源：
+## Licenses
 
-- 用户界面代码
-- 一般业务逻辑
-- 非敏感的公共模块
+This project adopts the [MIT License](./LICENSE).
 
-**注意**：为了确保项目的安全性和防止抄袭，涉及核心算法、加密逻辑、密钥管理、Xcode 项目配置等敏感部分并未开源。
-
-## 许可证
-
-本项目采用 [MIT 许可证](./LICENSE)。
-
-## 安装与使用
-
-### 克隆仓库
+## E-mail
 
 ```bash
-git clone https://github.com/PassLock-App/PassLock-iOS.git
-cd PassLock
+MeloDreek@gmail.com
