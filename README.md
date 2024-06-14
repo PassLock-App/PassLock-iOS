@@ -1,6 +1,8 @@
 # PassLock
 
-![PassLock Logo](path/to/logo.png)
+![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/512x512bb.jpg)
+
+[现在下载 PassLock](https://apps.apple.com/app/id1669178334)
 
 PassLock 是一款安全高效的密码管理器，专为保护您的个人信息而设计。该项目采用混合开源策略，以最大限度地提高透明度和用户信任，同时确保核心技术和安全性。
 
