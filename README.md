@@ -4,7 +4,7 @@
 
 [Download on the App Store](https://apps.apple.com/app/id1669178334)
 
-🔑PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
+🔒PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
 
 ## Features
 
