@@ -1,10 +1,10 @@
-# PassLock: Open Source Password Manager
+# PassLock: Open Source Password Manager
 
 ![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg)
 
 [Download on the App Store](https://apps.apple.com/app/id1669178334)
 
-PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
+🔑PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
 
 ## Features
 
