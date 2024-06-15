@@ -6,13 +6,13 @@
 
 🔒PassLock is a secure and efficient password manager designed to protect your personal information. We are committed to the value of openness and transparency and have now made the source code available to the public, so don't forget to give us a star.
 
-## Features
+## Main Features
 
 - **Account Management**: save important account information, support historical passwords, notes and picture attachments.
-- **Autofill**: Automatically extracts URLs through search engines, which greatly improves the efficiency of password filling.
+- **Autofill Password**: Automatically extracts URLs through search engines, which greatly improves the efficiency of password filling.
 - **QuickType Support**: extension supports QuickType Bar to auto-fill passwords.
-- **Multi-Device Synchronization**: Synchronize data between iPhone, iPad and Mac.
-- **Historical Password Management**: Record all historical passwords for an account and support manual filling of historical passwords.
+- **Multi-Device Sync**: Synchronize data between iPhone, iPad and Mac.
+- **Historical Passwords**: Record all historical passwords for an account and support manual filling of historical passwords.
 - **Strong Password Generator**: Simple and convenient tool for generating strong passwords.
 - **Dark Web Leakage Detection**: detects if an account has been leaked on the dark web.
 - **Local Storage**: Data is saved locally on the device by default and can be used without network authorization.
