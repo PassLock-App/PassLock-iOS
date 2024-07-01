@@ -14,25 +14,8 @@ import KeychainAccess
 
 open class AES256Manager {
     
-    public static func readSymmetricKey(_ userID: 🔒) -> 🔒 {
-        
-        
-        
-    }
-    
-    private static func createSymmetricKey(_ aes256Key: 🔒, userID: 🔒) -> 🔒 {
-        
-        
-
-    }
-    
-    private static func retryPasswordKey(_ keyData: Data, userID: String) {
-        
-    }
-        
-    public static func deleteSymmetricKey(_ userID: String) {
-       
-
-    }
+    #warning(Note: In order to ensure the security of the project and prevent plagiarism, 
+             the core algorithms, encryption logic, key management, 
+             Xcode project configuration and other sensitive parts are not open source.)
     
 }
