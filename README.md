@@ -22,9 +22,10 @@
 
 ## Screenshots
 
-![Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2d/ac/04/2dac0452-98dd-761c-4f99-c6cf885e92b6/e1dd9178-f5c7-4ddc-b826-97308e8e078d_1.png/460x0w.webp)
-![Screenshot 2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c7/ef/35/c7ef3543-c835-cdd6-ef68-9c9989b3ec34/ec2d8255-b11a-4551-98ad-f724d4633ff1_2.png/460x0w.webp)
-![Screenshot 3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8e/00/c7/8e00c746-26bf-d8b0-c564-d24fc11dabff/c0189cbf-dd45-4382-85d9-6a055c877e8d_4.png/460x0w.webp)
+![Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/9a/cc/6b9acc12-ce92-e74e-2cf1-4d8afc8035c5/d2011d4d-8adf-4657-b777-f9aa7d923557_1.png/626x0w.webp)
+![Screenshot 2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/d7/be/d4d7befd-2cd0-38c9-4203-6431d555500d/236d1205-be46-4163-a76d-3e2df92caad3_2.png/626x0w.webp)
+![Screenshot 3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/52/8c/97528c1e-582a-0839-8679-6c405763e7de/f3314cd6-4510-4075-91e4-0adbd0b86741_5.png/626x0w.webp)
+![Screenshot 4](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/dd/5d/3fdd5d8c-d152-113a-f854-1e4fab9115f0/c4f2a8db-66ff-43ff-b756-22d0c41e6034_6.png/626x0w.webp)
 
 ⚠️Note: In order to ensure the security of the project and prevent plagiarism, the core algorithms, encryption logic, key management, Xcode project configuration and other sensitive parts are not open source.
 
