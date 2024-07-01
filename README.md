@@ -1,8 +1,4 @@
 # PassLock: Open Source Password Manager
-## 🇬🇧Languages / 语言
-
-- [English](README.md) (default)
-- [中文](README.zh.md)
 
 ![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg)
 
@@ -12,7 +8,7 @@
 
 ## Main Features
 
-- **Account Management**: save important account information, support historical passwords, notes and picture attachments.
+- **Logins**: save important account information, support historical passwords, notes and picture attachments.
 - **Autofill Password**: Automatically extracts URLs through search engines, which greatly improves the efficiency of password filling.
 - **QuickType Support**: extension supports QuickType Bar to auto-fill passwords.
 - **Multi-Device Sync**: Synchronize data between iPhone, iPad and Mac.
