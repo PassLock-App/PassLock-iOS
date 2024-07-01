@@ -1,4 +1,8 @@
 # PassLock: Open Source Password Manager
+## 🇬🇧Languages / 语言
+
+- [English](README.md) (default)
+- [中文](README.zh.md)
 
 ![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg)
 
