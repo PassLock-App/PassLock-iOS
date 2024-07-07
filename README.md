@@ -1,6 +1,6 @@
 # PassLock: Open Source Password Manager
 
-![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/22/34/712234a9-7089-a1fc-841b-594cd98b0c15/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg)
+![PassLock Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cc/69/29cc6953-f6c3-15a7-f28b-08fe92604ed5/AppIcon-0-0-1x_U007epad-0-0-85-220.png/460x0w.webp)
 
 [Download on the App Store](https://apps.apple.com/app/id1669178334)
 
